@@ -13,6 +13,8 @@ PASTOR é um acrônimo que organiza qualquer peça de venda (carta de vendas, p�
 - **O — Oferta.** Aqui você detalha exatamente o que está sendo vendido. Regra de proporção: cerca de 80% do texto da oferta deve reforçar a transformação/benefício, e só uns 20% deve descrever os itens entregáveis — e mesmo esses itens devem ser redigidos amarrados ao benefício (não "8 DVDs de 45 minutos", e sim "8 treinos que esculpem o corpo que você quer").
 - **R — Resposta (chamada para ação).** Peça a venda de forma direta e específica: diga exatamente o que clicar, preencher ou fazer a seguir, e reforce por que agir agora importa. Timidez nessa etapa é a causa mais comum de cópias que "quase" vendem.
 
+**Uso do PASTOR sob restrição de espaço:** se o limite de caracteres não permitir os seis blocos completos, é preferível **omitir explicitamente** os blocos que não cabem (e informar isso ao usuário na justificativa) a comprimi-los de forma que percam sua função original. Nunca rotule um trecho como "S" ou "T" se ele não contiver, respectivamente, uma história real ou um depoimento/prova social de fato — nesse caso, classifique-o corretamente como parte de "O" (Oferta) ou retire o rótulo do framework para esse trecho. E se o usuário não forneceu história real nem depoimentos, não os invente: peça esses insumos ou entregue a peça sem os blocos S/T, dizendo isso claramente.
+
 ### Esqueleto genérico PASTOR (para adaptar a qualquer oferta)
 
 ```
