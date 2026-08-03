@@ -1,6 +1,6 @@
 # Copywriter Skill — ECA Digital
 
-Skill de copywriting especialista, treinada em obras clássicas de copywriting (Claude Hopkins, David Ogilvy, Robert Cialdini, Joseph Sugarman, Andy Maslen, Cashvertising, Great Leads, Ray Edwards, Russell Brunson, Gustavo Ferreira, Ícaro de Carvalho, Dan Ariely) e em conformidade com a **Lei nº 15.211/2025 — Estatuto Digital da Criança e do Adolescente (ECA Digital)**.
+Skill de copywriting especialista, treinada em obras clássicas de copywriting (Claude Hopkins, David Ogilvy, Robert Cialdini, Joseph Sugarman, Andy Maslen, Cashvertising, Great Leads, Ray Edwards, Russell Brunson, Gustavo Ferreira, Ícaro de Carvalho, Dan Ariely, John Caples, Robert W. Bly) e em conformidade com a **Lei nº 15.211/2025 — Estatuto Digital da Criança e do Adolescente (ECA Digital)**.
 
 A skill escreve copy (anúncios, landing pages, e-mails, posts, headlines, CTAs etc.) usando **apenas** o conhecimento contido nos arquivos de `references/` — não pesquisa na internet e não usa conhecimento externo. Antes de escrever, ela sempre pergunta se há limite de caracteres. Quando o público pode incluir adolescentes ou crianças, ela aplica automaticamente as diretrizes de conformidade com o ECA Digital.
 
@@ -21,6 +21,8 @@ copywriter-skill/
     ├── 04-psicologia-e-persuasao.md
     ├── 05-funis-e-mercado-br.md
     ├── 06-eca-digital-diretrizes.md
+    ├── 07-bly-copywriters-handbook.md
+    ├── 08-caples-tested-advertising.md
     └── lei-15211-2025-integra.md
 ```
 
