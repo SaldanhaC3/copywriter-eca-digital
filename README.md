@@ -23,6 +23,8 @@ copywriter-skill/
     ├── 06-eca-digital-diretrizes.md
     ├── 07-bly-copywriters-handbook.md
     ├── 08-caples-tested-advertising.md
+    ├── 09-revisao-gramatical-ptbr.md
+    ├── 10-conselho-editorial.md
     └── lei-15211-2025-integra.md
 ```
 
@@ -55,8 +57,18 @@ Basta pedir a copy normalmente (ex: "escreva um anúncio para Instagram sobre X"
 
 1. Perguntar se há limite de caracteres.
 2. Verificar se o público pode incluir menores de 18 anos e, se sim, aplicar as diretrizes do ECA Digital.
-3. Escrever a copy usando os frameworks das referências.
-4. Justificar brevemente as escolhas feitas.
+3. Escrever um rascunho usando os frameworks das referências.
+4. **Submeter o rascunho ao conselho editorial** — um painel de autores (Ogilvy, Caples, Cialdini, Ícaro de Carvalho etc.) que critica a peça, discorda entre si e fecha num veredito que muda a copy ou justifica por que ela fica como está.
+5. **Revisar o português brasileiro** — corrigindo erros de concordância, regência e crase, mas preservando a oralidade que faz a copy funcionar (nada de engessar o texto na norma culta formal).
+6. Entregar a copy final com contagem de caracteres e justificativa das escolhas.
+
+### O conselho editorial
+
+Antes de entregar, a copy passa por um "mini ambiente de teste": 2 a 5 autores da base são convocados conforme a peça, cada um levanta uma objeção concreta apontando trecho, e pelo menos dois precisam **discordar entre si** — o atrito é o ponto. As discordâncias são reais e documentadas (Hopkins × Ogilvy sobre resposta vs. marca, Ogilvy × Ícaro sobre fórmula vs. voz autêntica, Whitman × Cialdini sobre gatilho vs. ética, entre outras).
+
+Quando as vozes não convergem, há uma hierarquia de desempate: conformidade legal (ECA) → honestidade → compreensão → objetivo da peça → adequação de público/canal → preferência estilística. E o conselho nunca inventa fato para "melhorar" a copy: se uma objeção só se resolve com um dado real que você não forneceu, ele pede o dado ou deixa placeholder.
+
+Se você não quiser o debate numa solicitação específica, peça **"modo rápido"** — o conselho é dispensado, mas a revisão gramatical continua acontecendo sempre.
 
 ## Aviso legal
 
