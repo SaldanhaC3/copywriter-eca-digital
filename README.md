@@ -12,8 +12,9 @@ O conhecimento foi **destilado** em resumos originais e paráfrases nos arquivos
 
 ```
 copywriter-skill/
-├── SKILL.md              # skill no formato Anthropic (Claude Code / Claude.ai / plugins)
-├── SYSTEM_PROMPT.md       # versão para colar em qualquer outra IA (ChatGPT, Gemini, etc.)
+├── SKILL.md                     # skill no formato Anthropic (Claude Code / Claude.ai / plugins)
+├── SYSTEM_PROMPT.md             # versão para colar em qualquer outra IA (ChatGPT, Gemini, etc.)
+├── memoria-copy.template.md     # base do memoria-copy.md: fatos verificados, voz da marca, testes
 └── references/
     ├── 01-fundamentos.md
     ├── 02-headlines-e-leads.md
@@ -25,6 +26,7 @@ copywriter-skill/
     ├── 08-caples-tested-advertising.md
     ├── 09-revisao-gramatical-ptbr.md
     ├── 10-conselho-editorial.md
+    ├── 11-limites-e-contagem.md
     └── lei-15211-2025-integra.md
 ```
 
@@ -55,8 +57,8 @@ O Claude Code detecta o `SKILL.md` automaticamente e a skill fica disponível vi
 
 Basta pedir a copy normalmente (ex: "escreva um anúncio para Instagram sobre X"). A skill vai:
 
-1. Perguntar se há limite de caracteres.
-2. Verificar se o público pode incluir menores de 18 anos e, se sim, aplicar as diretrizes do ECA Digital.
+1. Resolver o limite de caracteres — perguntando quando o canal não determina o limite, ou declarando o default quando determina (headline de RSA são 30 caracteres, não uma preferência sua).
+2. Verificar se o público pode incluir menores de 18 anos, **declarar esse julgamento em uma linha na entrega** — inclusive quando a resposta é não — e, se for sim, aplicar as diretrizes do ECA Digital.
 3. Escrever um rascunho usando os frameworks das referências.
 4. **Submeter o rascunho ao conselho editorial** — um painel de autores (Ogilvy, Caples, Cialdini, Ícaro de Carvalho etc.) que critica a peça, discorda entre si e fecha num veredito que muda a copy ou justifica por que ela fica como está.
 5. **Revisar o português brasileiro** — corrigindo erros de concordância, regência e crase, mas preservando a oralidade que faz a copy funcionar (nada de engessar o texto na norma culta formal).
@@ -68,7 +70,15 @@ Antes de entregar, a copy passa por um "mini ambiente de teste": 2 a 5 autores d
 
 Quando as vozes não convergem, há uma hierarquia de desempate: conformidade legal (ECA) → honestidade → compreensão → objetivo da peça → adequação de público/canal → preferência estilística. E o conselho nunca inventa fato para "melhorar" a copy: se uma objeção só se resolve com um dado real que você não forneceu, ele pede o dado ou deixa placeholder.
 
-Se você não quiser o debate numa solicitação específica, peça **"modo rápido"** — o conselho é dispensado, mas a revisão gramatical continua acontecendo sempre.
+Se você não quiser o debate numa solicitação específica, peça **"modo rápido"** — o conselho é dispensado, mas a revisão gramatical e a linha de acesso provável continuam acontecendo sempre.
+
+### Memória entre sessões
+
+A skill mantém um `memoria-copy.md` (criado a partir de `memoria-copy.template.md`) com produto e avatar, **fatos verificados com origem e data**, voz da marca e resultados de teste. Existe por um motivo prático: como a skill nunca inventa número, depoimento, prazo ou credencial, ela precisa pedir esses fatos a você — e sem memória ela pede os mesmos fatos do mesmo produto em toda sessão. Cada fato é marcado `[FORNECIDO]` (você afirmou; pode ir para a copy) ou `[PRESUMIDO]` (ela inferiu; continua como placeholder). Fato perecível — preço, vagas, prazo de turma — é reconfirmado antes de voltar para a copy, porque escassez que era real na sessão passada é escassez falsa nesta.
+
+### Headlines saem em variantes
+
+Headline, subject line e CTA são entregues em **3 variantes**, cada uma rotulada com qual dos 4 apelos testados de Caples usa e o que aposta, mais a recomendação. A skill tem Caples no painel perguntando "você acha ou você testou?" — entregar uma versão única removia justamente a possibilidade de responder.
 
 ## Aviso legal
 

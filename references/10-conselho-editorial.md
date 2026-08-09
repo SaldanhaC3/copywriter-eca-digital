@@ -8,7 +8,7 @@
 
 Um conselho em que todos elogiam a copy é inútil e não deve ser produzido. Três regras tornam o debate real:
 
-1. **Toda voz convocada precisa apresentar uma objeção concreta**, apontando trecho específico. "Gostei do tom" não é participação válida. Se um autor genuinamente não tem objeção, ele não deveria ter sido convocado — troque a voz.
+1. **Toda voz convocada precisa apresentar uma objeção concreta, citando entre aspas o trecho literal do rascunho que ela ataca.** "Gostei do tom" não é participação válida, e "a abertura está fraca" também não — a objeção nomeia o texto. O trecho tem que existir no rascunho v1, palavra por palavra: objeção que ataca frase que não está lá é objeção inventada, e um conselho que debate uma copy diferente da que foi escrita produz um veredito que não se aplica a nada. Se um autor genuinamente não tem objeção, ele não deveria ter sido convocado — troque a voz.
 2. **Pelo menos duas vozes precisam discordar entre si** sobre algo real da peça (ver eixos de conflito abaixo). Debate sem discordância é monólogo.
 3. **O veredito precisa mudar a copy ou justificar explicitamente por que ela fica como está.** Um conselho que termina em "está ótima" só é aceitável se disser qual objeção foi levantada e por que foi vencida.
 
@@ -75,7 +75,7 @@ Brasileiro, anti-corporativo, alérgico a texto de agência.
 > *"Isso aí tá com cheiro de agência. Ninguém fala assim numa mesa de bar. Escreve como você contaria pro seu amigo — e para de tentar parecer profissional."*
 
 ### Guardião do ECA Digital — *assento obrigatório quando há menores*
-Não é autor: é a lei. Objetivo, cita artigo.
+Não é autor: é a lei. Objetivo, cita artigo — **mas só depois de localizar o texto literal do dispositivo em `lei-15211-2025-integra.md`.** Sem essa conferência, ele cita a diretriz de `06-eca-digital-diretrizes.md` em prosa e não menciona número de artigo. Ele é a única voz da mesa cuja objeção tem consequência jurídica, e é por isso que é a única que não pode errar a fonte.
 > *"Público com acesso provável por adolescentes. Recompensa por tempo de uso é vedada pelo art. 17, §4º, II. Isso não é ajuste de tom — é impedimento legal."*
 
 ---
@@ -127,11 +127,13 @@ Quando as vozes não convergem, decida nesta ordem — a de cima sempre vence:
 O debate é **visível ao usuário**, mas compacto — a copy continua sendo o produto, o conselho é o memorial de decisão. Use esta estrutura:
 
 ```
+acesso provável por menores: [sim/não] — [motivo em meia linha]
+
 ## Rascunho v1
 [copy inicial]
 
 ## Conselho editorial
-**[Autor]:** [objeção concreta, apontando trecho, na voz dele]
+**[Autor]:** [objeção concreta, citando entre aspas o trecho literal, na voz dele]
 **[Autor]:** [objeção — e, quando houver, discordância explícita do anterior]
 **[Autor]:** [objeção]
 
@@ -144,7 +146,24 @@ O debate é **visível ao usuário**, mas compacto — a copy continua sendo o p
 **Revisão PT-BR:** [o que foi ajustado, ou "sem erros; registro informal mantido de propósito"]
 ```
 
+Quando a peça for **headline, subject line ou CTA**, a seção final vira variantes em vez de versão única:
+
+```
+## Copy final — 3 variantes para teste
+**A** — apelo: [qual dos 4 de Caples] · aposta: [o que essa variante testa]
+[texto] → [N] caracteres
+
+**B** — apelo: [outro] · aposta: [...]
+[texto] → [N] caracteres
+
+**C** — apelo: [outro] · aposta: [...]
+[texto] → [N] caracteres
+
+**Recomendação:** [qual e por quê]
+```
+
 Regras de formato:
+- A linha de **acesso provável** abre toda entrega, com resultado e motivo, inclusive quando o resultado é "não" (ver seção 0 de `06-eca-digital-diretrizes.md`). É a única linha que sobrevive até em "modo rápido".
 - Cada fala do conselho: 1–3 linhas. Ninguém disserta.
 - A copy final vem **depois** do debate e fica visualmente separada — o usuário precisa achá-la em um relance.
 - Se o usuário pedir **"modo rápido"** (ou disser que não quer o debate), pule o conselho e entregue rascunho + revisão gramatical, mencionando em uma linha que o conselho foi dispensado.

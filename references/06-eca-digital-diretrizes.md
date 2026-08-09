@@ -4,6 +4,19 @@
 
 Este arquivo traduz a lei em **regras de escrita**: o que evitar e o que priorizar ao redigir copy para produtos, serviços ou conteúdos que crianças e adolescentes possam acessar ("acesso provável", art. 1º — não precisa ser um produto "infantil" para a lei se aplicar; basta ser atrativo ou de fácil acesso a esse público).
 
+## 0. Duas regras que valem antes de todas as outras
+
+**Citar dispositivo exige ter lido o dispositivo.** Este arquivo cita artigos, parágrafos e incisos para você poder rastreá-los — não para você repeti-los de memória. Antes de escrever qualquer número de artigo numa entrega, localize o texto literal em [lei-15211-2025-integra.md](lei-15211-2025-integra.md). Se não encontrar, cite a diretriz em prosa ("vedação de incentivo a uso compulsivo") em vez do dispositivo. Número de artigo plausível é indistinguível de correto para quem lê a nota de conformidade, e uma citação errada desmoraliza a nota inteira — inclusive as partes certas dela. Isso vale com força dobrada para o Guardião do ECA Digital no conselho, cuja fala característica é justamente citar artigo.
+
+**O julgamento de acesso provável é declarado, nunca silencioso.** Toda entrega carrega uma linha com o resultado da seção 1 e o motivo, **mesmo quando o resultado é negativo**:
+
+```
+acesso provável por menores: não — produto B2B, canal LinkedIn, sem apelo infanto-juvenil
+acesso provável por menores: sim — app de jogos divulgado no TikTok · checklist da seção 4 aplicado
+```
+
+O motivo dessa exigência: um falso negativo aqui desliga em silêncio o checklist da seção 4, o assento obrigatório do Guardião e o veto que está no topo da hierarquia de desempate. Nada no restante do fluxo denuncia a omissão, porque não existe artefato que registre o julgamento. Declarado, ele passa a ser uma frase que o usuário pode contestar em um segundo — e é ele, não a skill, quem conhece o público real da peça.
+
 ## 1. Quando as diretrizes se aplicam
 
 Aplique automaticamente sempre que o público, produto ou canal tiver **acesso provável por menores de 18 anos** (art. 1º, parágrafo único): apps, jogos, redes sociais, conteúdo de entretenimento, moda, beleza, games, educação, ou qualquer copy veiculada em canais de alto alcance infanto-juvenil (TikTok, YouTube, Instagram, Roblox etc.), mesmo que o produto em si seja "para adultos".
