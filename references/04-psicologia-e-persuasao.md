@@ -75,7 +75,7 @@ Cialdini descreve seis "atalhos mentais" que as pessoas usam para decidir rápid
 
 ---
 
-## Os 8 desejos de vida (LF8) e os 9 gatilhos de aprendizado (Cashvertising, Whitman)
+## Os 8 desejos de vida (LF8) e os 9 desejos secundários (Cashvertising, Whitman)
 
 Whitman argumenta que a maior parte das decisões de compra nasce de desejos biológicos profundos, não de argumentos racionais — e que a copy vende melhor quando fala diretamente a esses desejos, "instalando" imagens mentais vívidas e específicas na cabeça do leitor.
 
@@ -106,7 +106,12 @@ Whitman argumenta que a maior parte das decisões de compra nasce de desejos bio
 
 **Aplicação em copy:** esses desejos são úteis como argumentos de apoio (razões que justificam racionalmente uma decisão já motivada emocionalmente por um LF8), mas sozinhos convertem muito menos do que os desejos primários. Uma estrutura eficaz de copy costuma abrir com um LF8 (a motivação emocional real) e reforçar com um ou mais desejos secundários (a "desculpa lógica" que a pessoa usa para justificar a compra para si mesma).
 
-**Técnica de linguagem visual:** Whitman insiste que palavras específicas e sensoriais criam "filmes mentais" muito mais persuasivos do que frases vagas. Descrever a ação concreta (o que a pessoa vê, sente, faz) ativa a imaginação e aumenta o desejo antes mesmo da compra.
+**Técnica de linguagem visual:** Whitman insiste que palavras específicas e sensoriais criam "filmes mentais" muito mais persuasivos do que frases vagas. Descrever a ação concreta (o que a pessoa vê, sente, faz) ativa a imaginação e aumenta o desejo antes mesmo da compra — trocar um verbo genérico ("fazer algo") por uma sequência de ações visuais e sensoriais concretas é o que "liga" a cena na cabeça do leitor.
+
+### Dois conceitos complementares de Whitman (além da LF8)
+
+- **Modelo de Elaboração de Probabilidade (ELM) — rota central vs. rota periférica:** quando o leitor está muito envolvido/motivado com a decisão (compra cara, alto risco), ele processa a copy pela "rota central" — analisa argumentos, dados e evidências a fundo, e copy longa e bem argumentada converte melhor. Quando o envolvimento é baixo (compra barata, decisão rápida), o leitor processa pela "rota periférica" — reage mais a pistas superficiais (visual, autoridade, quem mais está comprando), e copy curta e direta funciona melhor. Na prática: calibrar o comprimento e a densidade argumentativa da copy pelo nível de envolvimento real do público com a decisão, não por preferência estética do redator.
+- **Teoria da inoculação:** assim como uma vacina expõe o corpo a uma versão fraca do vírus para gerar defesa, apresentar de forma antecipada e honesta a objeção mais forte que o leitor teria (e refutá-la na própria copy) cria resistência a argumentos contrários que ele encontrar depois — inclusive de concorrentes. Endereçar a objeção-chave antes que o leitor a levante sozinho tende a fortalecer a decisão de compra no longo prazo, em vez de só "empurrar" a venda no curto prazo.
 
 ---
 
@@ -119,6 +124,10 @@ Ariely demonstra, com experimentos, que as decisões humanas são sistematicamen
 As pessoas raramente avaliam o valor de algo em termos absolutos; comparam com âncoras disponíveis por perto. Ao colocar três opções lado a lado — sendo a do meio (ou a que você quer vender) claramente melhor que uma terceira opção "isca", propositalmente inferior — a opção-alvo passa a parecer o melhor negócio por comparação, mesmo sem mudar seu preço absoluto.
 
 **Aplicação em copy/oferta:** montar tabelas de planos com 3 opções em vez de 2, com uma opção "isca" desenhada para tornar o plano intermediário (o que você mais quer vender) obviamente superior. Mostrar o "preço de tabela" antes do "preço promocional" para ancorar o valor percebido.
+
+**Ancoragem de longo prazo ("coerência arbitrária"):** Ariely mostra que o primeiro preço que a pessoa vê ou aceita pagar por um produto não serve só de comparação naquele momento — ele planta uma âncora que continua influenciando quanto essa mesma pessoa está disposta a pagar por aquele produto (e por produtos parecidos) muito tempo depois, mesmo em decisões futuras não relacionadas à oferta original. A âncora inicial é em boa parte arbitrária (pode nascer de um número qualquer visto antes, sem relação com o produto), mas, uma vez fixada, passa a organizar de forma "coerente" todas as comparações de preço seguintes.
+
+**Aplicação em copy/oferta:** o primeiro preço/valor que a marca apresenta ao público (inclusive em um lançamento, pré-venda ou primeira oferta) tende a virar referência duradoura — baixar o preço de forma recorrente logo no início pode ancorar a audiência num patamar baixo difícil de reverter depois. Vale mais estabelecer a âncora de valor correta desde a primeira comunicação do que tentar corrigi-la depois com descontos.
 
 ### O poder do "grátis"
 
@@ -144,6 +153,24 @@ O preço em si altera a percepção de qualidade e até a experiência real do p
 
 **Aplicação em copy:** a forma como o preço é apresentado (contexto, comparação, storytelling de valor antes do número) muda a percepção de qualidade do produto, não só a disposição de pagar. Baixar preço sem cuidado pode, paradoxalmente, reduzir a percepção de valor.
 
+### Manter portas abertas (aversão a fechar opções)
+
+Ariely mostra que as pessoas pagam um preço real (tempo, dinheiro, pior resultado) só para evitar fechar definitivamente uma porta/opção, mesmo quando essa opção não tem valor prático de ser mantida aberta. Indecisão e excesso de alternativas ativas geram desgaste e pior decisão.
+
+**Aplicação em copy/oferta:** ofertas com CTA único e claro tendem a converter melhor do que páginas que deixam várias opções "em aberto" ao mesmo tempo (múltiplos planos, múltiplos CTAs concorrendo). Ajudar o leitor a "fechar a porta" das alternativas (inclusive a de não decidir agora) é parte do trabalho da copy, não só apresentar opções.
+
+### Procrastinação e precompromisso (deadlines que funcionam)
+
+Ariely demonstra, com um experimento em sala de aula, que dar total liberdade de prazo para uma tarefa gera mais procrastinação e pior resultado do que impor prazos intermediários espaçados — mas o achado mais importante é outro: quando as próprias pessoas podiam escolher se autoimpor prazos parciais (precompromisso voluntário), o desempenho já melhorava quase tanto quanto com prazos impostos de fora, mesmo sem qualquer fiscalização externa. Reconhecer a própria tendência a procrastinar e ter uma ferramenta de precompromisso disponível já ajuda a pessoa a agir.
+
+**Aplicação em copy/oferta:** oferecer estrutura de prazos parciais (parcelas com vencimento espaçado, etapas de um curso liberadas por cronograma, checkpoints de acompanhamento) converte e retém melhor do que liberar tudo de uma vez com prazo único no fim. Em vez de só cobrar "compre agora", dar ao leitor uma ferramenta concreta de precompromisso (ex.: escolher a própria data de início, assinar um "contrato" simbólico com metas) aumenta a chance de ele seguir até o resultado — o que também reduz cancelamento e aumenta prova social de sucesso.
+
+### Estado de excitação (arousal) muda a decisão
+
+Ariely demonstra que decisões tomadas em estado de excitação emocional (medo, tesão, raiva, entusiasmo intenso) são sistematicamente diferentes das que a mesma pessoa preveria tomar "a frio" — e a pessoa tende a subestimar o quanto o próprio estado emocional vai influenciá-la no momento da decisão.
+
+**Aplicação em copy (com cautela ética):** o timing e o contexto emocional em que a oferta chega ao leitor afetam a decisão tanto quanto o argumento em si. Isso reforça por que gatilhos de urgência/escassez pesam mais quando o leitor já está emocionalmente ativado — e é exatamente por isso que amplificar artificialmente esse estado (medo, pressa) para vender algo que a pessoa não compraria "a frio" cruza a linha da manipulação (ver checklist ético abaixo).
+
 ---
 
 ## Checklist ético de uso de gatilhos psicológicos
@@ -158,3 +185,17 @@ Gatilhos de persuasão são ferramentas neutras — o mesmo princípio de escass
 - **Atenção redobrada com público vulnerável:** quando a audiência inclui adolescentes ou outros públicos mais suscetíveis a pressão psicológica, os critérios acima devem ser aplicados de forma ainda mais rigorosa — não apenas por ética, mas porque a legislação brasileira de proteção de crianças e adolescentes no ambiente digital (ECA Digital) impõe limites legais específicos ao uso de técnicas persuasivas dirigidas a esse público. Esse tema é tratado em detalhe em arquivo de referência dedicado desta skill; aqui fica registrado o princípio geral: **persuasão sim, exploração de vulnerabilidade não.**
 
 Regra prática de bolso: se a técnica só funciona porque o leitor está sendo enganado sobre um fato (escassez, autoridade, prova social, urgência), é manipulação — abandonar. Se a técnica funciona porque organiza e comunica melhor um valor real que o produto entrega, é persuasão ética — usar.
+
+---
+
+## Nota de verificação
+
+Este arquivo foi conferido diretamente contra o texto das três edições-fonte em markdown:
+
+- *As Armas da Persuasão*, Robert B. Cialdini (Sextante, 2012, tradução de Ivo Korytowski) — confirmadas as seis armas na ordem e nomenclatura da edição brasileira (Reciprocidade, Compromisso e coerência, Aprovação/prova social, Afeição, Autoridade, Escassez). Esta edição de 2012 não inclui a sétima arma "Unidade", adicionada só na edição revista e ampliada mais recente (não disponível na fonte usada) — por isso o arquivo mantém apenas as 6 armas clássicas, corretamente.
+- *Cashvertising*, Drew Eric Whitman — confirmada a grafia correta do nome do autor como **Drew** Eric Whitman no miolo do livro (o arquivo-fonte grafa "Drue" apenas no nome do arquivo/capa digitalizada, um erro de OCR/upload, não do autor). Confirmados a LF8 (8 desejos primários) e os 9 desejos secundários na ordem e conteúdo exatos do livro.
+- *Predictably Irrational*, Dan Ariely — confirmados ancoragem/efeito isca (decoy effect, Capítulo 1), ancoragem de longo prazo/"arbitrary coherence" (Capítulo 1-2), poder do grátis (Capítulo 3), normas sociais vs. de mercado (Capítulo 4), efeito posse/endowment effect (Capítulo 8), manter portas abertas (Capítulo 9), efeito placebo de preço (Capítulo 10-11), influência da excitação/arousal (Capítulo 6) e procrastinação/precompromisso (Capítulo 7, experimento dos prazos em sala de aula) contra os capítulos correspondentes do livro.
+
+**Revisão adicional (2ª passagem):** foram acrescentados dois conceitos ausentes na primeira versão do arquivo — "ancoragem de longo prazo / coerência arbitrária" (o primeiro preço aceito planta uma referência duradoura, distinto do efeito isca simultâneo) e "procrastinação e precompromisso" (prazos parciais autoimpostos melhoram desempenho quase tanto quanto prazos impostos externamente) — ambos conferidos linha a linha contra o texto em inglês do livro.
+
+**Não verificado nesta passagem:** a edição em português de *Predictably Irrational* e de *Cashvertising* (a verificação usou as edições em inglês disponíveis na pasta de origem) — nomenclatura de termos técnicos em PT-BR foi traduzida/parafraseada por este redator, não extraída de tradução oficial publicada. O Capítulo 12 de Ariely ("The Cycle of Distrust", sobre como marcas percebidas como enganosas geram desconfiança generalizada mesmo em ofertas honestas) e o Capítulo 2 ("The Fallacy of Supply and Demand", sobre autoancoragem/"self-herding" em decisões repetidas) não foram lidos a fundo nesta passagem e ficam como possível acréscimo futuro. Do lado de Cashvertising, os "Ad Agency Secrets" táticos (ex.: uso de cores, tipografia, formatos de anúncio) foram deixados de fora por serem mais sobre produção visual do que sobre psicologia de persuasão em si, escopo deste arquivo.

@@ -2,7 +2,7 @@
 
 > Interpretação prática, para fins de copywriting, da Lei nº 15.211/2025. Não é aconselhamento jurídico — para decisões de compliance, consulte um advogado e o texto integral em [lei-15211-2025-integra.md](lei-15211-2025-integra.md).
 
-Este arquivo traduz a lei em **regras de escrita**: o que evitar e o que priorizar ao redigir copy para produtos, serviços ou conteúdos que crianças e adolescentes possam acessar ("acesso provável", art. 1º — não precisa ser um produto "infantil" para a lei se aplicar; basta ser atrativo ou de fácil acesso a esse público).
+Este arquivo traduz a lei em **regras de escrita**: o que evitar e o que priorizar ao redigir copy para produtos, serviços ou conteúdos de acesso provável por crianças e adolescentes (art. 1º). Não precisa ser um produto "infantil", mas disponibilidade pública isolada não basta: fundamente o julgamento em atratividade, facilidade de uso/acesso ou risco relevante para menores.
 
 ## 0. Duas regras que valem antes de todas as outras
 
@@ -19,7 +19,7 @@ O motivo dessa exigência: um falso negativo aqui desliga em silêncio o checkli
 
 ## 1. Quando as diretrizes se aplicam
 
-Aplique automaticamente sempre que o público, produto ou canal tiver **acesso provável por menores de 18 anos** (art. 1º, parágrafo único): apps, jogos, redes sociais, conteúdo de entretenimento, moda, beleza, games, educação, ou qualquer copy veiculada em canais de alto alcance infanto-juvenil (TikTok, YouTube, Instagram, Roblox etc.), mesmo que o produto em si seja "para adultos".
+Declare acesso provável quando houver ao menos um indício concreto de: (1) atratividade ou uso suficiente por menores; (2) facilidade considerável de acesso e uso por eles; ou (3) risco significativo à privacidade, segurança ou desenvolvimento. Apps, jogos, redes sociais, entretenimento, moda, beleza, games, educação e canais com audiência infanto-juvenil podem satisfazer esse teste conforme o contexto, mesmo que o produto se apresente como adulto. **Não conclua "sim" só porque uma peça está na internet, em buscador ou em canal público.**
 
 Se o público-alvo declarado é exclusivamente adulto e o canal/contexto não tem apelo ou acesso provável a menores, as diretrizes gerais de copy (references 01-05) se aplicam normalmente, sem as restrições extras deste arquivo.
 
@@ -34,13 +34,13 @@ Baseado nos arts. 6º, 22, 23 e 26:
 - **Não erotizar ou sexualizar** a imagem de crianças/adolescentes na copy, nem usar linguagem/insinuação sexual em contextos que os alcancem (art. 23).
 - **Não simular ou incentivar automedicação, autodiagnóstico, automutilação ou comportamento de risco** mesmo de forma indireta ou "irônica" (art. 6º, III).
 - **Não incentivar uso compulsivo**: evite copy que venda a ideia de "não desgrudar", recompensas por tempo de tela, ou notificações/gatilhos de FOMO extremo direcionados a esse público (arts. 8º, IV e 17, §4º, II).
-- **Não incentivar a desativação de controles/supervisão parental** em nenhuma copy (ex.: "peça para seus pais desbloquearem", "esconda isso dos seus pais") — vedado expressamente (art. 18, §§1º-2º).
+- **Não incentivar a desativação de controles/supervisão parental** em nenhuma copy (ex.: "peça para seus pais desbloquearem", "esconda isso dos seus pais") — enfraquecer as ferramentas de supervisão parental é o próprio efeito vedado pelo art. 18, §2º.
 - **Não usar dark patterns em CTAs**: textos de botão que confundem ou pressionam decisão (ex. "não, eu não quero economizar" como única saída de um popup) são vedados por analogia ao art. 18, §2º (proibição de interfaces que comprometem a autonomia de decisão).
 
 ## 3. O que priorizar
 
 - **Transparência etária:** quando aplicável, deixar claro para quem o conteúdo é indicado (classificação indicativa) — reflete o dever do art. 8º, V.
-- **Linguagem clara e apropriada à idade**, evitando jargão de contrato/termos que um adolescente não entenderia (espírito do art. 18, VI e §1º — informação acessível e apropriada à faixa etária).
+- **Linguagem clara e apropriada à idade**, evitando jargão de contrato/termos que um adolescente não entenderia (art. 18, §1º: informações sobre as ferramentas de supervisão parental devem ser claras e apropriadas às diferentes idades, capacidades e necessidades de desenvolvimento; e art. 18, VI, sobre dispor de informações e opções de controle em língua portuguesa).
 - **Apelos positivos:** curiosidade genuína, senso de conquista real, pertencimento saudável, criatividade — em vez de medo, comparação ou urgência artificial.
 - **Ofertas e preços claros**, sem letras miúdas escondidas, principalmente em produtos/serviços com cobrança (mensalidades, compras dentro do app) — em linha com o art. 6º, V e o CDC (citado no art. 5º).
 - Se o produto envolver **compra dentro de app, assinatura ou item consumível de jogo**, nunca usar copy que estimule compra por impulso por parte do menor sem menção clara de valores e de que envolve gasto real de dinheiro (loot boxes voltadas a esse público são proibidas por completo — art. 20).

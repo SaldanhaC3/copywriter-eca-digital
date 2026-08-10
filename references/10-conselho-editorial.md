@@ -150,7 +150,7 @@ Quando a peça for **headline, subject line ou CTA**, a seção final vira varia
 
 ```
 ## Copy final — 3 variantes para teste
-**A** — apelo: [qual dos 4 de Caples] · aposta: [o que essa variante testa]
+**A** — apelo: [interesse próprio / novidade / curiosidade] · aposta: [o que essa variante testa]
 [texto] → [N] caracteres
 
 **B** — apelo: [outro] · aposta: [...]

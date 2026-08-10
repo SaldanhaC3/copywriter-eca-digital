@@ -78,7 +78,7 @@ A skill mantém um `memoria-copy.md` (criado a partir de `memoria-copy.template.
 
 ### Headlines saem em variantes
 
-Headline, subject line e CTA são entregues em **3 variantes**, cada uma rotulada com qual dos 4 apelos testados de Caples usa e o que aposta, mais a recomendação. A skill tem Caples no painel perguntando "você acha ou você testou?" — entregar uma versão única removia justamente a possibilidade de responder.
+Headline, subject line e CTA são entregues em **3 variantes**, cada uma rotulada com uma das 3 classes de apelo de Caples (interesse próprio, novidade ou curiosidade), o que aposta e a recomendação. A skill tem Caples no painel perguntando "você acha ou você testou?" — entregar uma versão única removia justamente a possibilidade de responder.
 
 ## Aviso legal
 

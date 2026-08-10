@@ -1,0 +1,6 @@
+interface:
+  display_name: "Copywriter ECA Digital"
+  short_description: "Copy de vendas ética e orientada a teste"
+  default_prompt: "Use $copywriter-eca-digital para criar uma copy de vendas com base apenas nos materiais locais."
+policy:
+  allow_implicit_invocation: true

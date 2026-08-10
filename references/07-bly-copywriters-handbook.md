@@ -1,6 +1,8 @@
 ## Robert W. Bly — The Copywriter's Handbook
 
-> Síntese parafraseada da 4ª edição de *The Copywriter's Handbook* (Robert W. Bly). Cobre apenas o que é diferencial em relação ao material já existente na base (Hopkins, Ogilvy, Maslen, PASTOR/AIDA/PAS, Great Leads/Sugarman) — não repete AIDA, PAS, PASTOR nem os princípios já documentados em `01-fundamentos.md` e `02-headlines-e-leads.md`. Texto reescrito com palavras próprias; nenhuma frase longa do livro foi copiada.
+> Síntese parafraseada da 4ª edição (2020, St. Martin's Griffin) de *The Copywriter's Handbook* (Robert W. Bly) — conferida linha a linha contra o texto original em `Robert W. Bly - The Copywriter's Handbook... (2020)`. Cobre apenas o que é diferencial em relação ao material já existente na base (Hopkins, Ogilvy, Maslen, PASTOR/AIDA/PAS, Great Leads/Sugarman) — não repete AIDA, PAS, PASTOR nem os princípios já documentados em `01-fundamentos.md` e `02-headlines-e-leads.md`. Texto reescrito com palavras próprias; nenhuma frase longa do livro foi copiada.
+>
+> Nota de verificação: USP/Rosser Reeves (3 requisitos), os 4 caminhos de MacDougall, a fórmula BDF e os 4 U's (ambos atribuídos por Bly a Mark Ford, pseudônimo de Michael Masterson), "false logic", os 8 tipos de headline e a numeração dos capítulos (2, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17) foram todos conferidos diretamente contra o texto da edição de 2020 e batem com o resumo abaixo. Os capítulos 11-17 (site, landing page, e-mail, anúncios online, redes sociais, vídeo, content marketing) já são conteúdo novo desta edição em relação à de 2006, que não tinha essa cobertura digital — por isso já estão incluídos aqui.
 
 ### O copywriter como vendedor, não artista
 
@@ -29,7 +31,7 @@ Conceito próprio de Bly, útil quando a promessa principal é tão grande que s
 
 ### "Falsa lógica" (false logic)
 
-Termo que Bly atribui ao copywriter Mark Ford: técnica de apresentar fatos verdadeiros de um jeito que induz o leitor a uma conclusão favorável que os mesmos fatos, ditos de forma neutra, não sustentariam necessariamente — sem chegar a mentir ou deturpar o fato em si. Bly reconhece a linha ética tênue e recomenda: usar a técnica livremente para produtos legítimos, mas nunca para enganar sobre o que o produto de fato faz. **Ver a regra de "nunca inventar fatos não fornecidos pelo usuário" no `SKILL.md` — essa técnica só se aplica a fatos reais apresentados de forma persuasiva, nunca a fatos inventados.**
+Termo que Bly atribui ao copywriter Mark Ford (pseudônimo de Michael Masterson, coautor de *Great Leads* — ver `02-headlines-e-leads.md`): técnica de apresentar fatos verdadeiros de um jeito que induz o leitor a uma conclusão favorável que os mesmos fatos, ditos de forma neutra, não sustentariam necessariamente — sem chegar a mentir ou deturpar o fato em si. Bly reconhece a linha ética tênue e recomenda: usar a técnica livremente para produtos legítimos, mas nunca para enganar sobre o que o produto de fato faz. **Ver a regra de "nunca inventar fatos não fornecidos pelo usuário" no `SKILL.md` — essa técnica só se aplica a fatos reais apresentados de forma persuasiva, nunca a fatos inventados.**
 
 ### A sequência motivadora de cinco passos (alternativa própria de Bly à AIDA)
 
@@ -117,7 +119,7 @@ Pontos de Bly não cobertos pela síntese de Masterson/Forde e Sugarman já exis
 
 **As quatro funções que uma headline pode cumprir**: (1) capturar atenção, (2) selecionar/filtrar o público certo — uma headline pode e deve afastar quem não é comprador potencial, (3) entregar a mensagem completa sozinha — útil porque 4 em cada 5 leitores só leem a headline, (4) puxar o leitor para o corpo do texto por curiosidade, mistério ou pergunta.
 
-**Oito tipos básicos de headline segundo Bly** (taxonomia complementar aos tipos de lead já documentados): direta, indireta (curiosidade/duplo sentido), notícia ("novo", "anunciando", "finalmente"), how-to, pergunta (só funciona se do interesse do leitor), comando (verbo de ação forte), razão-por-que ("5 motivos para..."), testemunho (aspas aumentam credibilidade percebida mesmo sem citação real — "unattributed testimonial", usar com honestidade).
+**Oito tipos básicos de headline segundo Bly** (taxonomia complementar aos tipos de lead já documentados): direta, indireta (curiosidade/duplo sentido), notícia ("novo", "anunciando", "finalmente"), how-to, pergunta (só funciona se do interesse do leitor), comando (verbo de ação forte), razão-por-que ("5 motivos para..."), testemunho (aspas aumentam credibilidade percebida mesmo sem citação real — "unattributed testimonial"; **na prática desta skill, nunca inventar depoimento — só fato marcado `[FORNECIDO]` pelo usuário vai para a copy, ver regra em `SKILL.md`**).
 
 **A fórmula dos 4 U's (Mark Ford, citada por Bly)**: Urgente (elemento de tempo/prazo?), Único (algo novo ou algo velho de jeito novo?), Ultra-específico (quanto mais específico, melhor), Útil (apela ao autointeresse?). Pontuar de 1 a 4 em cada U; se não atingir 3-4 em pelo menos três critérios, reescrever. Aplica-se também a subject lines, teasers de envelope, leads e bullets.
 

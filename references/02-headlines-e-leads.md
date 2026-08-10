@@ -160,7 +160,7 @@ Lista de gatilhos que devem ser considerados ao planejar copy, headline e argume
 25. **Relações humanas** — humanizar com histórias, tom conversacional, humor e elementos que gerem identificação.
 26. **Storytelling** — histórias pessoais ou de terceiros criam vínculo emocional e mantêm a curiosidade.
 27. **Engajamento mental** — não entregar tudo de forma explícita; deixar a mente do leitor preencher lacunas e concluir sozinha.
-28. **Reciprocidade/obrigação** — pequenos gestos (bônus, brindes, contato repetido) geram sensação de dívida a retribuir.
+28. **Culpa** — quando o leitor recebe algo de valor antes de decidir (informação farta, um "presente" simbólico, contato repetido), surge uma sensação sutil de dívida que aumenta a chance de resposta — é a mesma lógica de mala-direta que inclui brinde ou nota de valor simbólico junto da carta.
 29. **Especificidade** — números exatos soam mais confiáveis do que afirmações vagas ("92% dos usuários" convence mais que "a maioria").
 30. **Familiaridade** — marcas, formatos e elementos repetidos geram conforto e confiança.
 31. **Esperança** — motivador central em saúde, beleza e desenvolvimento pessoal; a promessa deve ficar no campo do possível, nunca de garantia absoluta, sob risco de destruir a credibilidade quando o resultado não se concretizar.
@@ -170,6 +170,8 @@ Lista de gatilhos que devem ser considerados ao planejar copy, headline e argume
 - **Vender a cura, não a prevenção.** Produtos de prevenção são difíceis de vender porque a dor ainda não é sentida; produtos de cura vendem mais fácil e a preços mais altos porque a dor já é real. Sempre que possível, reposicione a oferta como solução de uma dor já sentida, não como prevenção futura.
 - **Questione restrições assumidas.** Muitas regras de mercado ("isso não se vende por telefone/e-mail/online") são autoimpostas, não reais — vale testar antes de aceitar como limite.
 - Início e fim do texto são os dois pontos mais críticos: a abertura constrói curiosidade e ambiente; o fechamento concentra fechamento de venda, urgência e reafirmação da garantia.
+- **Dispositivo de envolvimento (involvement device).** Recurso ligado ao gatilho 1: fazer o leitor executar uma pequena ação física ou mental durante a leitura (imaginar-se usando o produto, circular algo, responder a uma pergunta) aumenta a resposta mesmo quando a ação em si é simples ou até "boba" — o efeito psicológico de participação é real e mensurável (Sugarman relata ganhos expressivos em testes).
+- **Teste de legibilidade.** Sugarman recomenda medir a "leiturabilidade" da abertura: pegar uma amostra de ~100-125 palavras do início, calcular o tamanho médio de frase e o percentual de palavras longas (3+ sílabas) — quanto mais simples e curta a frase inicial, mais fácil iniciar o "escorregador". Útil como checagem prática antes de finalizar a primeira frase.
 
 ---
 
@@ -212,6 +214,8 @@ Modelos reutilizáveis de headline, com estrutura de preenchimento:
 
 Regra de bolso ao escolher a fórmula: cruzar o nível de consciência do público (veja tabela do início) com o tipo de headline — públicos frios pedem curiosidade, notícia, proclamação ou história; públicos quentes toleram bem benefício direto, oferta e prova social.
 
+**Outras taxonomias de headline** vivem em references separadas — use-as em conjunto, não em vez desta: `03-estruturas-e-formulas.md` (Maslen) para adequação de headline ao canal e economia de palavras; `07-bly-copywriters-handbook.md` para os 8 tipos de Bly (direta, indireta, notícia, how-to, pergunta, comando, razão-por-que, testemunho) e a fórmula dos 4 U's; `08-caples-tested-advertising.md` para os apelos testados de Caples (interesse próprio, novidade, curiosidade) quando a peça for headline/CTA em variantes para teste A/B.
+
 ---
 
 ## Checklist prático de headlines e leads
@@ -229,3 +233,17 @@ Antes de finalizar uma headline ou abertura, revisar:
 - [ ] O texto evita jargão vago e usa números/fatos específicos sempre que possível?
 - [ ] O fechamento retoma o gancho da abertura (promessa, proclamação, ou resolução da história) antes do CTA final?
 - [ ] A oferta e o benefício aparecem claros o bastante para quem já está pronto para comprar, sem depender só de "clima"?
+
+---
+
+## Nota de verificação (checagem contra as fontes)
+
+Este documento foi conferido por amostragem dirigida contra os arquivos em Markdown de:
+- Michael Masterson & John Forde, *Great Leads: The Six Easiest Ways to Start Any Sales Message* (2011, AWAI) — edição em `Masterson, Michael _ Forde, John - Great Leads... - libgen.li.md`.
+- Joseph Sugarman, *The Adweek Copywriting Handbook* (2006, Wiley) — edição em `Joseph Sugarman - The Adweek Copywriting Handbook (2006, Wiley) - libgen.li.md`.
+
+Confirmado como fiel ao texto-fonte: os 6 tipos de lead (nomes, ordem e lógica de uso) de Masterson & Forde; a tabela de níveis de consciência de Gene Schwartz e sua função como critério de escolha do lead; a "Regra de Uma Ideia" (rastreada por Masterson/Forde até o conceito de "Big Idea" de David Ogilvy); o conceito do "escorregador" (slippery slide) e o papel em cadeia de headline → subheadline → primeira frase → segunda frase de Sugarman; a numeração e o conteúdo dos 31 gatilhos psicológicos de Sugarman.
+
+Correção feita nesta revisão: o gatilho nº 28 estava listado como "Reciprocidade/obrigação" — no livro, o gatilho 28 é **Culpa** (o exemplo do texto é mala-direta com brinde/nota simbólica que gera sensação de dívida). Corrigido acima.
+
+Não verificado em profundidade (fora do escopo da amostragem, sem indício de erro): os exemplos de anúncios reais citados por Sugarman ao longo dos 31 gatilhos (BluBlocker, JS&A, Consumers Hero etc.) — usados aqui apenas como inspiração para os exemplos genéricos, não citados literalmente; e os capítulos do livro de Masterson & Forde sobre como combinar leads em copy muito longa (não essenciais para este resumo).

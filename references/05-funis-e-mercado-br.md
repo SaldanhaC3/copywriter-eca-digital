@@ -38,13 +38,17 @@ Antes de montar qualquer funil, Brunson propõe responder três perguntas:
 
 Ele também categoriza o tráfego em três tipos — controlado (mídia paga), não controlado (orgânico/imprensa) e **próprio** (a lista de contatos, seguidores e base de clientes que a empresa pode acionar a qualquer momento sem pagar de novo por alcance). O objetivo estratégico de qualquer funil, para ele, é converter tráfego controlado e não controlado em tráfego próprio o mais rápido possível — porque é essa base que sustenta a receita recorrente e as vendas futuras sem custo de aquisição adicional.
 
+### O Personagem Atrativo (Attractive Character)
+
+Um conceito nomeado como "Segredo" à parte no livro e que faltava nesta síntese: o Personagem Atrativo é a pessoa (real ou construída) que a marca compartilha com a audiência para sustentar toda a comunicação — não alguém necessariamente carismático ou bonito no sentido raso, mas alguém que atrai e retém atenção o bastante para carregar uma lista de e-mail, uma página ou um canal. Brunson usa o caso do garoto-propaganda de uma rede de sanduíches natural, cuja história pessoal de emagrecimento sustentou anos de campanha, como exemplo de personagem que funciona porque o público se reconhece nele — o mesmo mecanismo de identificação que Ícaro de Carvalho descreve para o storytelling brasileiro (ver seção abaixo). Vale tratar como o mesmo fio condutor: sem um personagem consistente por trás da mensagem, a escada de valor perde o elo que faz alguém seguir de um degrau ao outro.
+
 ### Tipos de funil e aplicação prática por etapa
 
 Brunson cataloga diferentes modelos de funil para diferentes pontos da escada de valor — cada um pensado para "esquentar" tráfego frio de um jeito específico:
 
 - **Funis de entrada (topo da escada, tráfego frio):** oferta de baixíssimo atrito, tipicamente algo gratuito cobrando só o frete/uma taxa simbólica, ou um "self-liquidating offer" (produto de entrada cujo preço cobre o próprio custo de aquisição do cliente). A função é qualificar quem já demonstrou disposição de sacar o cartão, não gerar lucro imediato.
 - **Funis de webinário/evento:** usados no meio da escada para vender ofertas de ticket médio a alto, combinando ensino de conteúdo real com uma oferta estruturada ao final — a ideia central é entregar valor suficiente durante a apresentação para que a virada para a venda pareça uma consequência natural, não uma interrupção.
-- **Funil "invisível":** uma sequência de comunicação (geralmente por e-mail) que entrega conteúdo de forma consistente e só introduz a oferta depois de estabelecida a relação — pensado para não parecer, a cada contato, que a empresa está "vendendo".
+- **Funil "invisível":** uma sequência de comunicação (geralmente por e-mail) que entrega conteúdo de forma consistente e só introduz a oferta depois de estabelecida a relação — pensado para não parecer, a cada contato, que a empresa está "vendendo". Brunson credita o conceito original a Daegan Smith, não a si mesmo — vale citar a fonte quando o termo aparecer em material derivado.
 - **Upsells e downsells pós-compra:** oferecidos na própria jornada de checkout, aproveitando o momento em que o cliente já decidiu comprar para apresentar uma versão maior, complementar ou mais barata da oferta.
 
 **Aplicação prática de copy por etapa do funil:**
@@ -97,7 +101,9 @@ Ferreira dedica um capítulo inteiro a modelos de título testados historicament
 
 O ponto de partida de Ícaro é que a atenção do consumidor brasileiro está saturada — ele estima milhares de estímulos de venda por dia — e que o cérebro humano responde a esse excesso bloqueando a maior parte do que recebe. A consequência prática que ele tira disso é radical: textos longos e "floreados" perdem para textos curtos, diretos, com frases de oito a dez palavras e parágrafos de três a quatro linhas. Ele descreve o próprio processo de edição como um exercício de corte progressivo — escrever livre, depois cortar pela metade, depois cortar de novo — até sobrar só o essencial da ideia.
 
-Ele também nota (e isso é relevante para o mercado nacional) que o tamanho ideal de vídeos e cartas de vendas em português vem encolhendo ao longo dos anos: do que eram apresentações de 40 minutos, o mercado migrou para peças de 5 a 15 minutos, sem perda de eficácia — o trabalho de aquecimento e educação do lead passou a ser feito antes, ao longo do relacionamento, e não dentro da própria peça de venda.
+Isso entra em tensão direta com Hopkins, Ogilvy e Bly, para quem copy longa vence copy curta sempre que for interessante — o critério deles é o interesse do leitor, não o tamanho. A leitura mais fiel é contextual: Ícaro fala especificamente de rede social e de um ambiente de atenção saturada e concorrida por estímulo, não de carta de vendas ou de peça em que o leitor já decidiu prestar atenção. Esse é justamente o tipo de conflito real que deve alimentar o eixo "Longo × Curto" do conselho editorial (`10-conselho-editorial.md`), não uma regra universal a aplicar sem considerar o canal.
+
+Ele também nota (e isso é relevante para o mercado nacional) que o tamanho ideal de vídeos de venda em português vem encolhendo ano a ano: cita a própria observação de mercado indo de médias de 40 minutos (2012) para 15 minutos (2015) e 12 minutos (2017), com casos de criadores que foram de peças de 35 minutos para 6 minutos — sem perda de eficácia percebida. A leitura dele: o trabalho de aquecimento e educação do lead passou a ser feito antes, ao longo do relacionamento (conteúdo, e-mail, remarketing), então o próprio vídeo de venda pode ir direto ao ponto — reforçar a transformação, o preço e a garantia — sem reconstruir a história inteira a cada peça.
 
 ### Autoridade construída, não comprada
 
@@ -154,3 +160,13 @@ Um traço que ele marca como diferencial de mercado: manter atendimento e comuni
 - [ ] Existe produção de conteúdo consistente que sustente a percepção de autoridade, independente de credenciais formais?
 - [ ] Depoimentos e provas sociais fogem do modelo genérico e batido, priorizando evidência concreta (resultado documentado)?
 - [ ] O atendimento pós-venda mantém proximidade e agilidade, coerente com a promessa feita na fase de aquisição?
+
+---
+
+## Nota de verificação (rodada de conferência contra as fontes)
+
+Este documento foi checado por amostragem contra os PDFs/MD das três edições listadas na abertura (a cópia de *Dotcom Secrets* disponível está em tradução para o espanhol, sem alteração de conteúdo relevante para esta checagem). Confirmados fielmente: a escada de valor e o exemplo do dentista/quiroprático, a "congregação" e os três tipos de tráfego, o marketing magnético de Dan Kennedy citado por Gustavo Ferreira, a garantia longa reduzindo devolução, o modelo dos cinco P de Ícaro de Carvalho (Premissa, Promessa, Picture, Prova, Push), a proporção éthos/logos/páthos (10/25/65%, com ponto de virada por volta de 30-35% do roteiro) e a regra de frases de oito a dez palavras com parágrafos de três a quatro linhas.
+
+Corrigido nesta rodada: os números de encolhimento de vídeos de venda de Ícaro (antes aproximados como "40 min → 5-15 min"; a fonte traz uma série mais específica, 2012/2015/2017, com casos extremos de 35 min para 6 min). Acrescentado: o conceito de Personagem Atrativo (Attractive Character) de Brunson, ausente na versão anterior, e a atribuição do funil invisível a Daegan Smith (não ao próprio Brunson).
+
+Não verificado nesta rodada: qualquer conteúdo específico do livro *Gatilhos Mentais* (Gustavo Ferreira) — não há versão em Markdown disponível na pasta de origem; se este documento vier a citar gatilhos mentais atribuídos a essa obra, tratar como não conferido até que o texto-fonte esteja disponível.

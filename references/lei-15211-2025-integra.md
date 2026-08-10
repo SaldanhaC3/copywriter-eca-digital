@@ -1,6 +1,6 @@
 # Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente)
 
-> Texto de domínio público (legislação federal brasileira), reproduzido a partir da versão publicada em planalto.gov.br, com limpeza de artefatos de OCR. Vigência a partir de 17 de março de 2026 (art. 41-A). Consulte sempre a fonte oficial para a versão vigente: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm
+> Texto de domínio público, incluído como a fonte legal fechada desta skill e limpo de artefatos de OCR. Vigência indicada no próprio texto: 17 de março de 2026 (art. 41-A). Não pesquise nem consulte versões externas durante o uso da skill; se houver dúvida sobre vigência ou interpretação, sinalize a limitação ao usuário.
 
 Dispõe sobre a proteção de crianças e adolescentes em ambientes digitais (Estatuto Digital da Criança e do Adolescente).
 
@@ -156,7 +156,16 @@ VII — promoção da educação digital midiática;
 VIII — revisão regular das ferramentas de inteligência artificial quanto à segurança e adequação ao uso por crianças e adolescentes; e
 IX — disponibilização, quando viável, de recursos ou conexões a serviços de suporte emocional e de bem-estar.
 
-**Art. 18.** As ferramentas de supervisão parental deverão permitir aos pais e responsáveis legais: visualizar/configurar/gerenciar opções de conta e privacidade; restringir compras e transações financeiras; identificar perfis de adultos com quem a criança/adolescente se comunica; acessar métricas consolidadas de tempo de uso; ativar/desativar salvaguardas; e dispor de informações em língua portuguesa.
+**Art. 18.** As ferramentas de supervisão parental deverão permitir aos pais e responsáveis legais:
+
+I — visualizar, configurar e gerenciar as opções de conta e privacidade da criança ou do adolescente;
+II — restringir compras e transações financeiras;
+III — identificar os perfis de adultos com os quais a criança ou o adolescente se comunica;
+IV — acessar métricas consolidadas do tempo total de uso do produto ou serviço;
+V — ativar ou desativar salvaguardas por meio de controles acessíveis e adequados;
+VI — dispor de informações e de opções de controle em língua portuguesa.
+
+§ 1º As informações sobre as ferramentas de supervisão parental deverão ser disponibilizadas de maneira clara e apropriada às diferentes idades, capacidades e necessidades de desenvolvimento, sem incentivar a desativação ou o enfraquecimento das salvaguardas.
 
 § 2º É vedado ao fornecedor projetar, modificar ou manipular interfaces com o objetivo ou efeito de comprometer a autonomia, a tomada de decisão ou a escolha do usuário, especialmente se resultar no enfraquecimento das ferramentas de supervisão parental ou das salvaguardas.
 
@@ -218,4 +227,4 @@ Brasília, 17 de setembro de 2025; 204º da Independência e 137º da República
 
 ---
 
-*Este texto é uma transcrição de apoio para fins de referência de conteúdo; não substitui o publicado no Diário Oficial da União. Consulte sempre a fonte oficial: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm*
+*Este texto é uma transcrição de apoio para fins de referência de conteúdo. A skill trabalha em modo de fonte fechada: não consulta fontes externas; em caso de dúvida sobre vigência ou interpretação, deve declarar essa limitação ao usuário.*
